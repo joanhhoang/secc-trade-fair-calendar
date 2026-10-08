@@ -125,7 +125,7 @@ def parse_events(html):
                 for i in block.select(f"i.{icon}"):
                     span = i.find_next_sibling("span")
                     if span and span.get_text(strip=True):
-                        out.append(span.get_text(" ", strip=True))
+                        out.append(span.get_text(", ", strip=True))
                 return out
 
             date_txt = (icon_texts("fa-calendar") or [""])[0]
