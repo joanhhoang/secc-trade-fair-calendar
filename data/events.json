@@ -1,0 +1,554 @@
+{
+  "events": {
+    "1583741598": {
+      "id": "1583741598",
+      "name": "VTG 2026",
+      "subtitle": "VTG 2026 – The 24th Vietnam Int’l Textile & Garment Industry Exhibition",
+      "start": "2026-10-14",
+      "end": "2026-10-17",
+      "date_text": "14 - 17.10.2026",
+      "hours": "09:00-17:00",
+      "halls": [],
+      "link": "https://secc.com.vn/events/vtg-2026-1583741598",
+      "brochure": "",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "7d2ee8fab09a5fb6900b8b1a1dc51fda8a9b827a",
+      "last_seen": "2026-10-08"
+    },
+    "1583736458": {
+      "id": "1583736458",
+      "name": "VIETNAM FOODTECH 2026",
+      "subtitle": "Vietnam International on food & beverage product machinery, equipment & technology 2026",
+      "start": "2026-10-21",
+      "end": "2026-10-23",
+      "date_text": "21 - 23.10.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall B1"
+      ],
+      "link": "https://secc.com.vn/events/vietnam-foodtech-2026-1583736458",
+      "brochure": "https://secc.com.vn/events/vietnam-foodtech-2026-1583736458/brochures",
+      "report": "https://secc.com.vn/events/vietnam-foodtech-2026-1583736458/event-report",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "6705ee15520b28767cfe0442209903e3cc8aa138",
+      "last_seen": "2026-10-08"
+    },
+    "1583736510": {
+      "id": "1583736510",
+      "name": "GROWTECH VIETNAM 2026",
+      "subtitle": "The Int’l Exhibition On Machineries, Equipment & Technology for Agriculture 2026",
+      "start": "2026-10-21",
+      "end": "2026-10-23",
+      "date_text": "21 - 23.10.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall B1"
+      ],
+      "link": "https://secc.com.vn/events/growtech-vietnam-2026-1583736510",
+      "brochure": "https://secc.com.vn/events/growtech-vietnam-2026-1583736510/brochures",
+      "report": "https://secc.com.vn/events/growtech-vietnam-2026-1583736510/event-report",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "81694dfd7dc58fb79a85f9224e9ffd5620f420d0",
+      "last_seen": "2026-10-08"
+    },
+    "1583763365": {
+      "id": "1583763365",
+      "name": "VIETSTOCK EXPO & FORUM 2026",
+      "subtitle": "Triển Lãm Quốc Tế Chuyên Ngành Chăn Nuôi, Thức Ăn Chăn Nuôi & Chế Biến Thịt Tại Việt Nam 2026",
+      "start": "2026-10-21",
+      "end": "2026-10-23",
+      "date_text": "21 - 23.10.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A"
+      ],
+      "link": "https://secc.com.vn/events/vietstock-expo-forum-2026-1583763365",
+      "brochure": "",
+      "report": "https://secc.com.vn/events/vietstock-expo-forum-2026-1583763365/event-report",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "316e391eb81ef52ae338ee1759e325eb990b2625",
+      "last_seen": "2026-10-08"
+    },
+    "1583718287": {
+      "id": "1583718287",
+      "name": "COFFEE EXPO VIETNAM 2026",
+      "subtitle": "Vietnam International Coffee, Tea and Bakery 2026",
+      "start": "2026-10-29",
+      "end": "2026-10-31",
+      "date_text": "29 - 31.10.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A"
+      ],
+      "link": "https://secc.com.vn/events/coffee-expo-vietnam-2026-1583718287",
+      "brochure": "https://secc.com.vn/events/coffee-expo-vietnam-2026-1583718287/brochures",
+      "report": "https://secc.com.vn/events/coffee-expo-vietnam-2026-1583718287/event-report",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "860d43ae41327409a871d0d0180e702ba0933d04",
+      "last_seen": "2026-10-08"
+    },
+    "1583967510": {
+      "id": "1583967510",
+      "name": "K-BEAUTY EXPO VIETNAM & SAIGON BEAUTY SHOW 2026",
+      "subtitle": "K-Beauty Expo Vietnam & Saigon Beauty Show 2026",
+      "start": "2026-10-29",
+      "end": "2026-10-31",
+      "date_text": "29 - 31.10.2026",
+      "hours": "10:00-17:00",
+      "halls": [
+        "Exhibition Hall B1"
+      ],
+      "link": "https://secc.com.vn/events/k-beauty-expo-vietnam-saigon-beauty-show-2026-1583967510",
+      "brochure": "https://secc.com.vn/events/k-beauty-expo-vietnam-saigon-beauty-show-2026-1583967510/brochures",
+      "report": "https://secc.com.vn/events/k-beauty-expo-vietnam-saigon-beauty-show-2026-1583967510/event-report",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "b3e89a6f28d9bc848ba6374e0b93173b225958d3",
+      "last_seen": "2026-10-08"
+    },
+    "1583723503": {
+      "id": "1583723503",
+      "name": "VIETFRANCHISE 2026",
+      "subtitle": "Vietnam International Retaitech & Franchise show 2026",
+      "start": "2026-10-29",
+      "end": "2026-10-31",
+      "date_text": "29 - 31.10.2026",
+      "hours": "10:00-17:00",
+      "halls": [
+        "Exhibition Hall A"
+      ],
+      "link": "https://secc.com.vn/events/vietfranchise-2026-1583723503",
+      "brochure": "",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "745e81d9ff74ae46bdb8a331382b2e5e4f58b56b",
+      "last_seen": "2026-10-08"
+    },
+    "1583876096": {
+      "id": "1583876096",
+      "name": "VIETWATER 2026",
+      "subtitle": "The Vietnam’s International Water Supply, Sanitation, Water Resources and Purification Event",
+      "start": "2026-11-04",
+      "end": "2026-11-06",
+      "date_text": "04 - 06.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A"
+      ],
+      "link": "https://secc.com.vn/events/vietwater-2026-1583876096",
+      "brochure": "https://secc.com.vn/events/vietwater-2026-1583876096/brochures",
+      "report": "https://secc.com.vn/events/vietwater-2026-1583876096/event-report",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "1b21b4377c9d07c81046f4ef3858b0613f00ee20",
+      "last_seen": "2026-10-08"
+    },
+    "1583876148": {
+      "id": "1583876148",
+      "name": "HVACR VIETNAM 2026",
+      "subtitle": "The International Exhibition on HVAC, Refrigeration and Smart Building Technologies in Vietnam 2026",
+      "start": "2026-11-04",
+      "end": "2026-11-06",
+      "date_text": "04 - 06.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall B"
+      ],
+      "link": "https://secc.com.vn/events/hvacr-vietnam-2026-1583876148",
+      "brochure": "https://secc.com.vn/events/hvacr-vietnam-2026-1583876148/brochures",
+      "report": "https://secc.com.vn/events/hvacr-vietnam-2026-1583876148/event-report",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "65f5dcb742222c5ced1abd72c8362ecf3fe7c127",
+      "last_seen": "2026-10-08"
+    },
+    "1583876162": {
+      "id": "1583876162",
+      "name": "VIETNAM ENERGY WEEK 2026",
+      "subtitle": "The International Exhibition on Energy, Renewable Energy & Energy Storage Technologies in Vietnam 2026",
+      "start": "2026-11-04",
+      "end": "2026-11-06",
+      "date_text": "04 - 06.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall B"
+      ],
+      "link": "https://secc.com.vn/events/vietnam-energy-week-2026-1583876162",
+      "brochure": "https://secc.com.vn/events/vietnam-energy-week-2026-1583876162/brochures",
+      "report": "https://secc.com.vn/events/vietnam-energy-week-2026-1583876162/event-report",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "ec741b788ed5cf6f4533c46a3788842187959bfe",
+      "last_seen": "2026-10-08"
+    },
+    "1583903538": {
+      "id": "1583903538",
+      "name": "SIAL VIETNAM 2026",
+      "subtitle": "SIAL Vietnam Exposition 2026",
+      "start": "2026-11-11",
+      "end": "2026-11-14",
+      "date_text": "11 - 14.11.2026",
+      "hours": "10:00-17:00",
+      "halls": [
+        "Exhibition Hall B"
+      ],
+      "link": "https://secc.com.vn/events/sial-vietnam-2026-1583903538",
+      "brochure": "https://secc.com.vn/events/sial-vietnam-2026-1583903538/brochures",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "fcb559413f43e97ac9b738b3498f08018dd4f3d4",
+      "last_seen": "2026-10-08"
+    },
+    "1583903596": {
+      "id": "1583903596",
+      "name": "VIETNAM FOODEXPO 2026",
+      "subtitle": "Vietnam International Food Industry Exhibition 2026",
+      "start": "2026-11-11",
+      "end": "2026-11-14",
+      "date_text": "11 - 14.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A Exhibition Hall B"
+      ],
+      "link": "https://secc.com.vn/events/vietnam-foodexpo-2026-1583903596",
+      "brochure": "https://secc.com.vn/events/vietnam-foodexpo-2026-1583903596/brochures",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "0dd183c04e4e1e8f699425227e9ac2b00652bce8",
+      "last_seen": "2026-10-08"
+    },
+    "1583904987": {
+      "id": "1583904987",
+      "name": "FOODEXPO INTERNATIONAL 2026",
+      "subtitle": "Food Exposition International 2026",
+      "start": "2026-11-11",
+      "end": "2026-11-14",
+      "date_text": "11 - 14.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A Exhibition Hall B"
+      ],
+      "link": "https://secc.com.vn/events/foodexpo-international-2026-1583904987",
+      "brochure": "",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "a8a6c74b5576a6ac6af6d5a5271ad22958568de8",
+      "last_seen": "2026-10-08"
+    },
+    "1583800862": {
+      "id": "1583800862",
+      "name": "CBME VIETNAM 2026",
+      "subtitle": "Children Baby Maternity Industry Expo 2026",
+      "start": "2026-11-19",
+      "end": "2026-11-21",
+      "date_text": "19 - 21.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A Exhibition Hall B1"
+      ],
+      "link": "https://secc.com.vn/events/cbme-vietnam-2026-1583800862",
+      "brochure": "https://secc.com.vn/events/cbme-vietnam-2026-1583800862/brochures",
+      "report": "https://secc.com.vn/events/cbme-vietnam-2026-1583800862/event-report",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "e12dacd65a93ef9a6be2f0b01d27de95badeb5c7",
+      "last_seen": "2026-10-08"
+    },
+    "1583800729": {
+      "id": "1583800729",
+      "name": "SIUF 2026",
+      "subtitle": "China (Shenzhen) International Brand Underwear Fair (SIUF) 2026",
+      "start": "2026-11-19",
+      "end": "2026-11-21",
+      "date_text": "19 - 21.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A Exhibition Hall B1"
+      ],
+      "link": "https://secc.com.vn/events/siuf-2026-1583800729",
+      "brochure": "https://secc.com.vn/events/siuf-2026-1583800729/brochures",
+      "report": "https://secc.com.vn/events/siuf-2026-1583800729/event-report",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "26a45178f2a8dbecb93e0c5c07008b51a5004278",
+      "last_seen": "2026-10-08"
+    },
+    "1583845145": {
+      "id": "1583845145",
+      "name": "VIETNAM MEDIPHARM 2026 - VIETMEDICARE EXPO",
+      "subtitle": "The International Medical and Pharmaceutical Exhibition in Vietnam\nThe Vietnam International Exhibition on Medical Pharmaceutical Equipment and Healthcare.",
+      "start": "2026-11-25",
+      "end": "2026-11-27",
+      "date_text": "25 - 27.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall B"
+      ],
+      "link": "https://secc.com.vn/events/vietnam-medipharm-2026-vietmedicare-expo-1583845145",
+      "brochure": "https://secc.com.vn/events/vietnam-medipharm-2026-vietmedicare-expo-1583845145/brochures",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "8afcc9a99e3ac9abac5d8b1233a5087d4666718d",
+      "last_seen": "2026-10-08"
+    },
+    "1583844340": {
+      "id": "1583844340",
+      "name": "ADHESIVES AND TAPE EXPO VIETNAM - RUBBERTECH VIETNAM 2026",
+      "subtitle": "Vientam International Adhesives and Tape Exhibition and Rubber and Tire Exhibition",
+      "start": "2026-11-25",
+      "end": "2026-11-27",
+      "date_text": "25 - 27.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A"
+      ],
+      "link": "https://secc.com.vn/events/adhesives-and-tape-expo-vietnam-rubbertech-vietnam-2026-1583844340",
+      "brochure": "",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "586c233b318a068f172ac8685f9e3ff79f8cbc41",
+      "last_seen": "2026-10-08"
+    },
+    "1583844933": {
+      "id": "1583844933",
+      "name": "VIETPHARMA &TECH 2026",
+      "subtitle": "The International Exhibition on Pharmaceutical Manufacturing Technology",
+      "start": "2026-11-25",
+      "end": "2026-11-27",
+      "date_text": "25 - 27.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall B"
+      ],
+      "link": "https://secc.com.vn/events/vietpharma-tech-2026-1583844933",
+      "brochure": "https://secc.com.vn/events/vietpharma-tech-2026-1583844933/brochures",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "91979f2583eb7c8e27e1b46be5483d301d61898e",
+      "last_seen": "2026-10-08"
+    },
+    "1583844798": {
+      "id": "1583844798",
+      "name": "METAL & WELD 2026",
+      "subtitle": "Vietnam International Hardware and Manual Electric Tools Exhibition 2026",
+      "start": "2026-11-25",
+      "end": "2026-11-27",
+      "date_text": "25 - 27.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A"
+      ],
+      "link": "https://secc.com.vn/events/metal-weld-2026-1583844798",
+      "brochure": "https://secc.com.vn/events/metal-weld-2026-1583844798/brochures",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "5c82e7688637759389db0ab5759eef9176939032",
+      "last_seen": "2026-10-08"
+    },
+    "1583844628": {
+      "id": "1583844628",
+      "name": "VIETLAB EXPO 2026",
+      "subtitle": "Vietnam International Exhibition Analysis Laboratory Equipment & Technology",
+      "start": "2026-11-25",
+      "end": "2026-11-27",
+      "date_text": "25 - 27.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall B"
+      ],
+      "link": "https://secc.com.vn/events/vietlab-expo-2026-1583844628",
+      "brochure": "https://secc.com.vn/events/vietlab-expo-2026-1583844628/brochures",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "c07719fcf1e3352a3fbc06f05dd62149ae022e73",
+      "last_seen": "2026-10-08"
+    },
+    "1583844518": {
+      "id": "1583844518",
+      "name": "VINAMAC EXPO 2026",
+      "subtitle": "The International Exhibition on Industrial Machinery, Equipment, Technologies and Products in HCMC",
+      "start": "2026-11-25",
+      "end": "2026-11-27",
+      "date_text": "25 - 27.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A"
+      ],
+      "link": "https://secc.com.vn/events/vinamac-expo-2026-1583844518",
+      "brochure": "https://secc.com.vn/events/vinamac-expo-2026-1583844518/brochures",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "94d87857568129007a0e52ce3bb7dcd54b2a0957",
+      "last_seen": "2026-10-08"
+    },
+    "1583844394": {
+      "id": "1583844394",
+      "name": "VINACHEM EXPO 2026",
+      "subtitle": "The 21st Vientam International Chemical Industry Exhibition",
+      "start": "2026-11-25",
+      "end": "2026-11-27",
+      "date_text": "25 - 27.11.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A"
+      ],
+      "link": "https://secc.com.vn/events/vinachem-expo-2026-1583844394",
+      "brochure": "https://secc.com.vn/events/vinachem-expo-2026-1583844394/brochures",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "4dba06474ee05d6e1ab10c0596b0e49385940e8b",
+      "last_seen": "2026-10-08"
+    },
+    "1583740389": {
+      "id": "1583740389",
+      "name": "VIETNAM ELEVATOR EXPO 2026",
+      "subtitle": "The 5th Vietnam International Elevator Expo",
+      "start": "2026-12-03",
+      "end": "2026-12-05",
+      "date_text": "03 - 05.12.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall B"
+      ],
+      "link": "https://secc.com.vn/events/vietnam-elevator-expo-2026-1583740389",
+      "brochure": "",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "58ecf528cf74d4c4eb2efc43a29898cdaa5ac64b",
+      "last_seen": "2026-10-08"
+    },
+    "1583743898": {
+      "id": "1583743898",
+      "name": "VIETNAM HARDWARE & HAND TOOLS EXPO 2026",
+      "subtitle": "The 11th Vietnam International Exhibition on Hardware and Hand Tools",
+      "start": "2026-12-03",
+      "end": "2026-12-05",
+      "date_text": "03 - 05.12.2026",
+      "hours": "08:00-17:00",
+      "halls": [
+        "Exhibition Hall B"
+      ],
+      "link": "https://secc.com.vn/events/vietnam-hardware-hand-tools-expo-2026-1583743898",
+      "brochure": "",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "8f5f5b490e480b589311ff9d9f41091811f3e5fb",
+      "last_seen": "2026-10-08"
+    },
+    "1583740224": {
+      "id": "1583740224",
+      "name": "HOME & GARDEN EXPO 2026",
+      "subtitle": "Vietnam International Home & Garden Expo",
+      "start": "2026-12-03",
+      "end": "2026-12-05",
+      "date_text": "03 - 05.12.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall B2"
+      ],
+      "link": "https://secc.com.vn/events/home-garden-expo-2026-1583740224",
+      "brochure": "https://secc.com.vn/events/home-garden-expo-2026-1583740224/brochures",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "eb62c37933ce593aef72d15eb8782562eb17fe24",
+      "last_seen": "2026-10-08"
+    },
+    "1583740412": {
+      "id": "1583740412",
+      "name": "VIETNAM EXPO in HCMC 2026",
+      "subtitle": "The 24th Vietnam International Trade Fair in Ho Chi Minh City",
+      "start": "2026-12-03",
+      "end": "2026-12-05",
+      "date_text": "03 - 05.12.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A Exhibition Hall B"
+      ],
+      "link": "https://secc.com.vn/events/vietnam-expo-in-hcmc-2026-1583740412",
+      "brochure": "",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "bb1e039f26c14ce92af3b4d8355b36ebd0a752a8",
+      "last_seen": "2026-10-08"
+    },
+    "1583740449": {
+      "id": "1583740449",
+      "name": "IBTE HCMC 2026",
+      "subtitle": "Ho Chi Minh City International Baby Products & Toys Expo 2026",
+      "start": "2026-12-10",
+      "end": "2026-12-13",
+      "date_text": "10 - 13.12.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A Exhibition Hall B"
+      ],
+      "link": "https://secc.com.vn/events/ibte-hcmc-2026-1583740449",
+      "brochure": "",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "0e02d14e861f3da6c4d493da3f52a49d7a39c685",
+      "last_seen": "2026-10-08"
+    },
+    "1583740435": {
+      "id": "1583740435",
+      "name": "IGHE HO CHI MINH 2026",
+      "subtitle": "GLOBAL HOUSEWARES EXPO (HO CHI MINH) 2026",
+      "start": "2026-12-10",
+      "end": "2026-12-13",
+      "date_text": "10 - 13.12.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A"
+      ],
+      "link": "https://secc.com.vn/events/ighe-ho-chi-minh-2026-1583740435",
+      "brochure": "",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "3211762eb2c9b63aac9754d8f3ceff386ed88200",
+      "last_seen": "2026-10-08"
+    },
+    "1583903656": {
+      "id": "1583903656",
+      "name": "BEAUTY EXPO 2026",
+      "subtitle": "Vietnam International Beauty Expo – Vietnam International Wellness Industry Expo 2026",
+      "start": "2026-12-24",
+      "end": "2026-12-26",
+      "date_text": "24 - 26.12.2026",
+      "hours": "09:00-17:00",
+      "halls": [
+        "Exhibition Hall A1"
+      ],
+      "link": "https://secc.com.vn/events/beauty-expo-2026-1583903656",
+      "brochure": "",
+      "report": "",
+      "first_seen": "2026-10-08",
+      "sequence": 0,
+      "fp": "b62f88b125f44be6684bc54cb7d4e43246b82ebf",
+      "last_seen": "2026-10-08"
+    }
+  },
+  "last_checked": "2026-10-08"
+}

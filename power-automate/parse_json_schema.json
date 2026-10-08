@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "properties": {
+    "last_checked": { "type": "string" },
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "key": { "type": "string" },
+          "name": { "type": "string" },
+          "start": { "type": "string" },
+          "end": { "type": "string" },
+          "start_time": { "type": "string" },
+          "end_time": { "type": "string" },
+          "hours": { "type": "string" },
+          "halls": { "type": "string" },
+          "location": { "type": "string" },
+          "link": { "type": "string" },
+          "status": { "type": "string" },
+          "version": { "type": "integer" },
+          "body_html": { "type": "string" }
+        }
+      }
+    }
+  }
+}
