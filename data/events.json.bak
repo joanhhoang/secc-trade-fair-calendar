@@ -216,14 +216,14 @@
       "date_text": "11 - 14.11.2026",
       "hours": "09:00-17:00",
       "halls": [
-        "Exhibition Hall A, Exhibition Hall B"
+        "Exhibition Hall A Exhibition Hall B"
       ],
       "link": "https://secc.com.vn/events/vietnam-foodexpo-2026-1583903596",
       "brochure": "https://secc.com.vn/events/vietnam-foodexpo-2026-1583903596/brochures",
       "report": "",
       "first_seen": "2026-10-08",
-      "sequence": 1,
-      "fp": "fd1f0bc03e29e4e0dc3ab98673152d6428233f77",
+      "sequence": 0,
+      "fp": "0dd183c04e4e1e8f699425227e9ac2b00652bce8",
       "last_seen": "2026-10-08"
     },
     "1583904987": {
@@ -235,14 +235,14 @@
       "date_text": "11 - 14.11.2026",
       "hours": "09:00-17:00",
       "halls": [
-        "Exhibition Hall A, Exhibition Hall B"
+        "Exhibition Hall A Exhibition Hall B"
       ],
       "link": "https://secc.com.vn/events/foodexpo-international-2026-1583904987",
       "brochure": "",
       "report": "",
       "first_seen": "2026-10-08",
-      "sequence": 1,
-      "fp": "e6e79667873b00d92ea969e1fe54469b2c66078c",
+      "sequence": 0,
+      "fp": "a8a6c74b5576a6ac6af6d5a5271ad22958568de8",
       "last_seen": "2026-10-08"
     },
     "1583800862": {
@@ -254,14 +254,14 @@
       "date_text": "19 - 21.11.2026",
       "hours": "09:00-17:00",
       "halls": [
-        "Exhibition Hall A, Exhibition Hall B1"
+        "Exhibition Hall A Exhibition Hall B1"
       ],
       "link": "https://secc.com.vn/events/cbme-vietnam-2026-1583800862",
       "brochure": "https://secc.com.vn/events/cbme-vietnam-2026-1583800862/brochures",
       "report": "https://secc.com.vn/events/cbme-vietnam-2026-1583800862/event-report",
       "first_seen": "2026-10-08",
-      "sequence": 1,
-      "fp": "c610b925e646333a5280286c4a08a8ca841b60db",
+      "sequence": 0,
+      "fp": "e12dacd65a93ef9a6be2f0b01d27de95badeb5c7",
       "last_seen": "2026-10-08"
     },
     "1583800729": {
@@ -273,20 +273,20 @@
       "date_text": "19 - 21.11.2026",
       "hours": "09:00-17:00",
       "halls": [
-        "Exhibition Hall A, Exhibition Hall B1"
+        "Exhibition Hall A Exhibition Hall B1"
       ],
       "link": "https://secc.com.vn/events/siuf-2026-1583800729",
       "brochure": "https://secc.com.vn/events/siuf-2026-1583800729/brochures",
       "report": "https://secc.com.vn/events/siuf-2026-1583800729/event-report",
       "first_seen": "2026-10-08",
-      "sequence": 1,
-      "fp": "db48134d25cd77f27995b7b125f292a5e86242fe",
+      "sequence": 0,
+      "fp": "26a45178f2a8dbecb93e0c5c07008b51a5004278",
       "last_seen": "2026-10-08"
     },
     "1583845145": {
       "id": "1583845145",
       "name": "VIETNAM MEDIPHARM 2026 - VIETMEDICARE EXPO",
-      "subtitle": "The International Medical and Pharmaceutical Exhibition in Vietnam\r\nThe Vietnam International Exhibition on Medical Pharmaceutical Equipment and Healthcare.",
+      "subtitle": "The International Medical and Pharmaceutical Exhibition in Vietnam\nThe Vietnam International Exhibition on Medical Pharmaceutical Equipment and Healthcare.",
       "start": "2026-11-25",
       "end": "2026-11-27",
       "date_text": "25 - 27.11.2026",
@@ -298,8 +298,8 @@
       "brochure": "https://secc.com.vn/events/vietnam-medipharm-2026-vietmedicare-expo-1583845145/brochures",
       "report": "",
       "first_seen": "2026-10-08",
-      "sequence": 1,
-      "fp": "87c457d6c4f3f0de16a149d478b86b50de6f40b0",
+      "sequence": 0,
+      "fp": "8afcc9a99e3ac9abac5d8b1233a5087d4666718d",
       "last_seen": "2026-10-08"
     },
     "1583844340": {
@@ -482,14 +482,14 @@
       "date_text": "03 - 05.12.2026",
       "hours": "09:00-17:00",
       "halls": [
-        "Exhibition Hall A, Exhibition Hall B"
+        "Exhibition Hall A Exhibition Hall B"
       ],
       "link": "https://secc.com.vn/events/vietnam-expo-in-hcmc-2026-1583740412",
       "brochure": "",
       "report": "",
       "first_seen": "2026-10-08",
-      "sequence": 1,
-      "fp": "06912b303183add59fdc4f3ae2f4ca5b005f41cb",
+      "sequence": 0,
+      "fp": "bb1e039f26c14ce92af3b4d8355b36ebd0a752a8",
       "last_seen": "2026-10-08"
     },
     "1583740449": {
@@ -501,14 +501,14 @@
       "date_text": "10 - 13.12.2026",
       "hours": "09:00-17:00",
       "halls": [
-        "Exhibition Hall A, Exhibition Hall B"
+        "Exhibition Hall A Exhibition Hall B"
       ],
       "link": "https://secc.com.vn/events/ibte-hcmc-2026-1583740449",
       "brochure": "",
       "report": "",
       "first_seen": "2026-10-08",
-      "sequence": 1,
-      "fp": "cf1579d88cf25a0eff4a4d96763ae2d51919e0dd",
+      "sequence": 0,
+      "fp": "0e02d14e861f3da6c4d493da3f52a49d7a39c685",
       "last_seen": "2026-10-08"
     },
     "1583740435": {
