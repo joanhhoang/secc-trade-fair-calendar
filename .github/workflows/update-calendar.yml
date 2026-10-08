@@ -1,0 +1,51 @@
+name: Update SECC calendar
+
+on:
+  schedule:
+    # Runs on the 1st of every month at 08:00 Vietnam time (01:00 UTC).
+    # The full SECC update happens in Jan, Apr, Jul and Oct (every 3 months).
+    # In the other months it only saves a small "still alive" note, because
+    # GitHub switches off schedules in repos with no activity for 60 days.
+    - cron: "0 1 1 * *"
+  workflow_dispatch:   # adds a "Run workflow" button for a manual update any time
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Decide - full update or keep-alive
+        id: mode
+        run: |
+          MONTH=$(date -u +%m)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [[ "$MONTH" =~ ^(01|04|07|10)$ ]]; then
+            echo "full=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "full=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Scrape SECC and rebuild calendar
+        if: steps.mode.outputs.full == 'true'
+        run: |
+          pip install -r requirements.txt
+          python secc_calendar.py
+
+      - name: Keep-alive note
+        if: steps.mode.outputs.full == 'false'
+        run: date -u +"%Y-%m-%d %H:%M UTC" > data/keepalive.txt
+
+      - name: Save changes to the repo
+        run: |
+          git config user.name "secc-calendar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "Calendar update $(date -u +%F)"
+          git push
