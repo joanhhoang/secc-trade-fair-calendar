@@ -1,0 +1,45 @@
+name: Update WTC Binh Duong calendar
+
+on:
+  schedule:
+    # 1st of every month, 08:30 Vietnam time (01:30 UTC),
+    # 30 minutes after the SECC update so the two never clash.
+    - cron: "30 1 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calendar-push
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install requests beautifulsoup4 openpyxl
+
+      - name: Read WTC Binh Duong events
+        run: python wtc_calendar.py
+
+      - name: Save changes
+        run: |
+          git config user.name "calendar-bot"
+          git config user.email "calendar-bot@users.noreply.github.com"
+          git add data/wtc_events.json docs/wtc_binh_duong.ics docs/wtc_events.json "docs/WTC Binh Duong Trade Fairs.xlsx"
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "WTC Binh Duong calendar update $(date -u +%Y-%m-%d)"
+          git pull --rebase
+          git push
