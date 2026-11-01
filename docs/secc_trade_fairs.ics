@@ -11,7 +11,7 @@ REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:secc-1583741598@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261018
 SUMMARY:VTG 2026
@@ -21,7 +21,7 @@ DESCRIPTION:VTG 2026 – The 24th Vietnam Int’l Textile & Garment Industr
  y Exhibition\n\nDates: 14-17 Oct 2026\nHours: 09:00-17:00\nVenue: SECC\, 7
  99 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Vietnam\n\nEvent pag
  e: https://secc.com.vn/events/vtg-2026-1583741598\n\nSource: SECC event ca
- lendar\, last checked 2026-10-08
+ lendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/vtg-2026-1583741598
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -29,7 +29,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583736510@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261024
 SUMMARY:GROWTECH VIETNAM 2026
@@ -42,7 +42,7 @@ DESCRIPTION:The Int’l Exhibition On Machineries\, Equipment & Technology
  vietnam-2026-1583736510\nBrochure: https://secc.com.vn/events/growtech-vie
  tnam-2026-1583736510/brochures\nPost show report: https://secc.com.vn/even
  ts/growtech-vietnam-2026-1583736510/event-report\n\nSource: SECC event cal
- endar\, last checked 2026-10-08
+ endar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/growtech-vietnam-2026-1583736510
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -50,7 +50,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583736458@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261024
 SUMMARY:VIETNAM FOODTECH 2026
@@ -63,7 +63,7 @@ DESCRIPTION:Vietnam International on food & beverage product machinery\, eq
  nam-foodtech-2026-1583736458\nBrochure: https://secc.com.vn/events/vietnam
  -foodtech-2026-1583736458/brochures\nPost show report: https://secc.com.vn
  /events/vietnam-foodtech-2026-1583736458/event-report\n\nSource: SECC even
- t calendar\, last checked 2026-10-08
+ t calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/vietnam-foodtech-2026-1583736458
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -71,7 +71,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583763365@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261024
 SUMMARY:VIETSTOCK EXPO & FORUM 2026
@@ -83,7 +83,7 @@ DESCRIPTION:Triển Lãm Quốc Tế Chuyên Ngành Chăn Nuôi\, Thức Ă
  Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Vietnam\n\nEvent page: 
  https://secc.com.vn/events/vietstock-expo-forum-2026-1583763365\nPost show
   report: https://secc.com.vn/events/vietstock-expo-forum-2026-1583763365/e
- vent-report\n\nSource: SECC event calendar\, last checked 2026-10-08
+ vent-report\n\nSource: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/vietstock-expo-forum-2026-1583763365
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -91,7 +91,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583718287@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261101
 SUMMARY:COFFEE EXPO VIETNAM 2026
@@ -104,7 +104,7 @@ DESCRIPTION:Vietnam International Coffee\, Tea and Bakery 2026\n\nDates: 29
  re: https://secc.com.vn/events/coffee-expo-vietnam-2026-1583718287/brochur
  es\nPost show report: https://secc.com.vn/events/coffee-expo-vietnam-2026-
  1583718287/event-report\n\nSource: SECC event calendar\, last checked 2026
- -10-08
+ -11-01
 URL:https://secc.com.vn/events/coffee-expo-vietnam-2026-1583718287
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -112,7 +112,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583967510@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261101
 SUMMARY:K-BEAUTY EXPO VIETNAM & SAIGON BEAUTY SHOW 2026
@@ -125,7 +125,7 @@ DESCRIPTION:K-Beauty Expo Vietnam & Saigon Beauty Show 2026\n\nDates: 29-31
  -1583967510\nBrochure: https://secc.com.vn/events/k-beauty-expo-vietnam-sa
  igon-beauty-show-2026-1583967510/brochures\nPost show report: https://secc
  .com.vn/events/k-beauty-expo-vietnam-saigon-beauty-show-2026-1583967510/ev
- ent-report\n\nSource: SECC event calendar\, last checked 2026-10-08
+ ent-report\n\nSource: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/k-beauty-expo-vietnam-saigon-beauty-show-202
  6-1583967510
 SEQUENCE:0
@@ -134,7 +134,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583723503@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261101
 SUMMARY:VIETFRANCHISE 2026
@@ -144,7 +144,7 @@ DESCRIPTION:Vietnam International Retaitech & Franchise show 2026\n\nDates:
   29-31 Oct 2026\nHours: 10:00-17:00\nHalls: Exhibition Hall A\nVenue: SECC
  \, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Vietnam\n\nEvent
   page: https://secc.com.vn/events/vietfranchise-2026-1583723503\n\nSource:
-  SECC event calendar\, last checked 2026-10-08
+  SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/vietfranchise-2026-1583723503
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -152,7 +152,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583876148@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261107
 SUMMARY:HVACR VIETNAM 2026
@@ -165,7 +165,7 @@ DESCRIPTION:The International Exhibition on HVAC\, Refrigeration and Smart
  ents/hvacr-vietnam-2026-1583876148\nBrochure: https://secc.com.vn/events/h
  vacr-vietnam-2026-1583876148/brochures\nPost show report: https://secc.com
  .vn/events/hvacr-vietnam-2026-1583876148/event-report\n\nSource: SECC even
- t calendar\, last checked 2026-10-08
+ t calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/hvacr-vietnam-2026-1583876148
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -173,7 +173,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583876162@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261107
 SUMMARY:VIETNAM ENERGY WEEK 2026
@@ -186,7 +186,7 @@ DESCRIPTION:The International Exhibition on Energy\, Renewable Energy & Ene
  n/events/vietnam-energy-week-2026-1583876162\nBrochure: https://secc.com.v
  n/events/vietnam-energy-week-2026-1583876162/brochures\nPost show report: 
  https://secc.com.vn/events/vietnam-energy-week-2026-1583876162/event-repor
- t\n\nSource: SECC event calendar\, last checked 2026-10-08
+ t\n\nSource: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/vietnam-energy-week-2026-1583876162
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -194,7 +194,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583876096@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261107
 SUMMARY:VIETWATER 2026
@@ -207,7 +207,7 @@ DESCRIPTION:The Vietnam’s International Water Supply\, Sanitation\, Water
  /vietwater-2026-1583876096\nBrochure: https://secc.com.vn/events/vietwater
  -2026-1583876096/brochures\nPost show report: https://secc.com.vn/events/v
  ietwater-2026-1583876096/event-report\n\nSource: SECC event calendar\, las
- t checked 2026-10-08
+ t checked 2026-11-01
 URL:https://secc.com.vn/events/vietwater-2026-1583876096
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -215,7 +215,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583904987@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261115
 SUMMARY:FOODEXPO INTERNATIONAL 2026
@@ -225,7 +225,7 @@ DESCRIPTION:Food Exposition International 2026\n\nDates: 11-14 Nov 2026\nHo
  urs: 09:00-17:00\nHalls: Exhibition Hall A\, Exhibition Hall B\nVenue: SEC
  C\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Vietnam\n\nEven
  t page: https://secc.com.vn/events/foodexpo-international-2026-1583904987\
- n\nSource: SECC event calendar\, last checked 2026-10-08
+ n\nSource: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/foodexpo-international-2026-1583904987
 SEQUENCE:1
 STATUS:CONFIRMED
@@ -233,7 +233,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583903538@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261115
 SUMMARY:SIAL VIETNAM 2026
@@ -244,7 +244,7 @@ DESCRIPTION:SIAL Vietnam Exposition 2026\n\nDates: 11-14 Nov 2026\nHours: 1
  Tan My Ward\, Ho Chi Minh City\, Vietnam\n\nEvent page: https://secc.com.v
  n/events/sial-vietnam-2026-1583903538\nBrochure: https://secc.com.vn/event
  s/sial-vietnam-2026-1583903538/brochures\n\nSource: SECC event calendar\, 
- last checked 2026-10-08
+ last checked 2026-11-01
 URL:https://secc.com.vn/events/sial-vietnam-2026-1583903538
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -252,7 +252,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583903596@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261115
 SUMMARY:VIETNAM FOODEXPO 2026
@@ -263,7 +263,7 @@ DESCRIPTION:Vietnam International Food Industry Exhibition 2026\n\nDates: 1
  all B\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\
  , Vietnam\n\nEvent page: https://secc.com.vn/events/vietnam-foodexpo-2026-
  1583903596\nBrochure: https://secc.com.vn/events/vietnam-foodexpo-2026-158
- 3903596/brochures\n\nSource: SECC event calendar\, last checked 2026-10-08
+ 3903596/brochures\n\nSource: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/vietnam-foodexpo-2026-1583903596
 SEQUENCE:1
 STATUS:CONFIRMED
@@ -271,7 +271,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583800862@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261122
 SUMMARY:CBME VIETNAM 2026
@@ -283,7 +283,7 @@ DESCRIPTION:Children Baby Maternity Industry Expo 2026\n\nDates: 19-21 Nov
  m\n\nEvent page: https://secc.com.vn/events/cbme-vietnam-2026-1583800862\n
  Brochure: https://secc.com.vn/events/cbme-vietnam-2026-1583800862/brochure
  s\nPost show report: https://secc.com.vn/events/cbme-vietnam-2026-15838008
- 62/event-report\n\nSource: SECC event calendar\, last checked 2026-10-08
+ 62/event-report\n\nSource: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/cbme-vietnam-2026-1583800862
 SEQUENCE:1
 STATUS:CONFIRMED
@@ -291,7 +291,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583800729@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261122
 SUMMARY:SIUF 2026
@@ -303,7 +303,7 @@ DESCRIPTION:China (Shenzhen) International Brand Underwear Fair (SIUF) 2026
  hi Minh City\, Vietnam\n\nEvent page: https://secc.com.vn/events/siuf-2026
  -1583800729\nBrochure: https://secc.com.vn/events/siuf-2026-1583800729/bro
  chures\nPost show report: https://secc.com.vn/events/siuf-2026-1583800729/
- event-report\n\nSource: SECC event calendar\, last checked 2026-10-08
+ event-report\n\nSource: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/siuf-2026-1583800729
 SEQUENCE:1
 STATUS:CONFIRMED
@@ -311,7 +311,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583844340@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
 SUMMARY:ADHESIVES AND TAPE EXPO VIETNAM - RUBBERTECH VIETNAM 2026
@@ -322,7 +322,7 @@ DESCRIPTION:Vientam International Adhesives and Tape Exhibition and Rubber
   Exhibition Hall A\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho C
  hi Minh City\, Vietnam\n\nEvent page: https://secc.com.vn/events/adhesives
  -and-tape-expo-vietnam-rubbertech-vietnam-2026-1583844340\n\nSource: SECC 
- event calendar\, last checked 2026-10-08
+ event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/adhesives-and-tape-expo-vietnam-rubbertech-v
  ietnam-2026-1583844340
 SEQUENCE:0
@@ -331,7 +331,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583844798@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
 SUMMARY:METAL & WELD 2026
@@ -342,7 +342,7 @@ DESCRIPTION:Vietnam International Hardware and Manual Electric Tools Exhibi
  Hall A\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City
  \, Vietnam\n\nEvent page: https://secc.com.vn/events/metal-weld-2026-15838
  44798\nBrochure: https://secc.com.vn/events/metal-weld-2026-1583844798/bro
- chures\n\nSource: SECC event calendar\, last checked 2026-10-08
+ chures\n\nSource: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/metal-weld-2026-1583844798
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -350,7 +350,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583844628@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
 SUMMARY:VIETLAB EXPO 2026
@@ -361,7 +361,7 @@ DESCRIPTION:Vietnam International Exhibition Analysis Laboratory Equipment
  on Hall B\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh C
  ity\, Vietnam\n\nEvent page: https://secc.com.vn/events/vietlab-expo-2026-
  1583844628\nBrochure: https://secc.com.vn/events/vietlab-expo-2026-1583844
- 628/brochures\n\nSource: SECC event calendar\, last checked 2026-10-08
+ 628/brochures\n\nSource: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/vietlab-expo-2026-1583844628
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -369,7 +369,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583845145@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
 SUMMARY:VIETNAM MEDIPHARM 2026 - VIETMEDICARE EXPO
@@ -382,7 +382,7 @@ DESCRIPTION:The International Medical and Pharmaceutical Exhibition in Viet
  i Minh City\, Vietnam\n\nEvent page: https://secc.com.vn/events/vietnam-me
  dipharm-2026-vietmedicare-expo-1583845145\nBrochure: https://secc.com.vn/e
  vents/vietnam-medipharm-2026-vietmedicare-expo-1583845145/brochures\n\nSou
- rce: SECC event calendar\, last checked 2026-10-08
+ rce: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/vietnam-medipharm-2026-vietmedicare-expo-158
  3845145
 SEQUENCE:1
@@ -391,7 +391,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583844933@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
 SUMMARY:VIETPHARMA &TECH 2026
@@ -402,7 +402,7 @@ DESCRIPTION:The International Exhibition on Pharmaceutical Manufacturing Te
  all B\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\
  , Vietnam\n\nEvent page: https://secc.com.vn/events/vietpharma-tech-2026-1
  583844933\nBrochure: https://secc.com.vn/events/vietpharma-tech-2026-15838
- 44933/brochures\n\nSource: SECC event calendar\, last checked 2026-10-08
+ 44933/brochures\n\nSource: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/vietpharma-tech-2026-1583844933
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -410,7 +410,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583844394@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
 SUMMARY:VINACHEM EXPO 2026
@@ -421,7 +421,7 @@ DESCRIPTION:The 21st Vientam International Chemical Industry Exhibition\n\n
  : SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Vietnam\n\
  nEvent page: https://secc.com.vn/events/vinachem-expo-2026-1583844394\nBro
  chure: https://secc.com.vn/events/vinachem-expo-2026-1583844394/brochures\
- n\nSource: SECC event calendar\, last checked 2026-10-08
+ n\nSource: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/vinachem-expo-2026-1583844394
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -429,7 +429,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583844518@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
 SUMMARY:VINAMAC EXPO 2026
@@ -441,7 +441,7 @@ DESCRIPTION:The International Exhibition on Industrial Machinery\, Equipmen
  n My Ward\, Ho Chi Minh City\, Vietnam\n\nEvent page: https://secc.com.vn/
  events/vinamac-expo-2026-1583844518\nBrochure: https://secc.com.vn/events/
  vinamac-expo-2026-1583844518/brochures\n\nSource: SECC event calendar\, la
- st checked 2026-10-08
+ st checked 2026-11-01
 URL:https://secc.com.vn/events/vinamac-expo-2026-1583844518
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -449,7 +449,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583740224@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261206
 SUMMARY:HOME & GARDEN EXPO 2026
@@ -460,7 +460,7 @@ DESCRIPTION:Vietnam International Home & Garden Expo\n\nDates: 3-5 Dec 2026
  Van Linh\, Tan My Ward\, Ho Chi Minh City\, Vietnam\n\nEvent page: https:/
  /secc.com.vn/events/home-garden-expo-2026-1583740224\nBrochure: https://se
  cc.com.vn/events/home-garden-expo-2026-1583740224/brochures\n\nSource: SEC
- C event calendar\, last checked 2026-10-08
+ C event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/home-garden-expo-2026-1583740224
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -468,7 +468,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583740389@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261206
 SUMMARY:VIETNAM ELEVATOR EXPO 2026
@@ -478,7 +478,7 @@ DESCRIPTION:The 5th Vietnam International Elevator Expo\n\nDates: 3-5 Dec 2
  026\nHours: 09:00-17:00\nHalls: Exhibition Hall B\nVenue: SECC\, 799 Nguye
  n Van Linh\, Tan My Ward\, Ho Chi Minh City\, Vietnam\n\nEvent page: https
  ://secc.com.vn/events/vietnam-elevator-expo-2026-1583740389\n\nSource: SEC
- C event calendar\, last checked 2026-10-08
+ C event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/vietnam-elevator-expo-2026-1583740389
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -486,7 +486,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583740412@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261206
 SUMMARY:VIETNAM EXPO in HCMC 2026
@@ -497,7 +497,7 @@ DESCRIPTION:The 24th Vietnam International Trade Fair in Ho Chi Minh City\n
  bition Hall B\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Mi
  nh City\, Vietnam\n\nEvent page: https://secc.com.vn/events/vietnam-expo-i
  n-hcmc-2026-1583740412\n\nSource: SECC event calendar\, last checked 2026-
- 10-08
+ 11-01
 URL:https://secc.com.vn/events/vietnam-expo-in-hcmc-2026-1583740412
 SEQUENCE:1
 STATUS:CONFIRMED
@@ -505,7 +505,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583743898@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261206
 SUMMARY:VIETNAM HARDWARE & HAND TOOLS EXPO 2026
@@ -516,7 +516,7 @@ DESCRIPTION:The 11th Vietnam International Exhibition on Hardware and Hand
  \nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Vie
  tnam\n\nEvent page: https://secc.com.vn/events/vietnam-hardware-hand-tools
  -expo-2026-1583743898\n\nSource: SECC event calendar\, last checked 2026-1
- 0-08
+ 1-01
 URL:https://secc.com.vn/events/vietnam-hardware-hand-tools-expo-2026-158374
  3898
 SEQUENCE:0
@@ -525,7 +525,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583740449@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261214
 SUMMARY:IBTE HCMC 2026
@@ -535,7 +535,7 @@ DESCRIPTION:Ho Chi Minh City International Baby Products & Toys Expo 2026\n
  \nDates: 10-13 Dec 2026\nHours: 09:00-17:00\nHalls: Exhibition Hall A\, Ex
  hibition Hall B\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi 
  Minh City\, Vietnam\n\nEvent page: https://secc.com.vn/events/ibte-hcmc-20
- 26-1583740449\n\nSource: SECC event calendar\, last checked 2026-10-08
+ 26-1583740449\n\nSource: SECC event calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/ibte-hcmc-2026-1583740449
 SEQUENCE:1
 STATUS:CONFIRMED
@@ -543,7 +543,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583740435@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261214
 SUMMARY:IGHE HO CHI MINH 2026
@@ -553,7 +553,7 @@ DESCRIPTION:GLOBAL HOUSEWARES EXPO (HO CHI MINH) 2026\n\nDates: 10-13 Dec 2
  026\nHours: 09:00-17:00\nHalls: Exhibition Hall A\nVenue: SECC\, 799 Nguye
  n Van Linh\, Tan My Ward\, Ho Chi Minh City\, Vietnam\n\nEvent page: https
  ://secc.com.vn/events/ighe-ho-chi-minh-2026-1583740435\n\nSource: SECC eve
- nt calendar\, last checked 2026-10-08
+ nt calendar\, last checked 2026-11-01
 URL:https://secc.com.vn/events/ighe-ho-chi-minh-2026-1583740435
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -561,7 +561,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:secc-1583903656@jtmasia.com
-DTSTAMP:20261008T072216Z
+DTSTAMP:20261101T065930Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261227
 SUMMARY:BEAUTY EXPO 2026
@@ -572,8 +572,255 @@ DESCRIPTION:Vietnam International Beauty Expo – Vietnam International Wel
  ls: Exhibition Hall A1\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, 
  Ho Chi Minh City\, Vietnam\n\nEvent page: https://secc.com.vn/events/beaut
  y-expo-2026-1583903656\n\nSource: SECC event calendar\, last checked 2026-
- 10-08
+ 11-01
 URL:https://secc.com.vn/events/beauty-expo-2026-1583903656
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:secc-1584000401@jtmasia.com
+DTSTAMP:20261101T065930Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270307
+SUMMARY:HAWAEXPO 2027
+LOCATION:SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Viet
+ nam | Exhibition Hall A\, Exhibition Hall B
+DESCRIPTION:Hochiminh export furniture fair 2027\n\nDates: 3-6 Mar 2027\nHo
+ urs: 09:00-17:00\nHalls: Exhibition Hall A\, Exhibition Hall B\nVenue: SEC
+ C\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Vietnam\n\nEven
+ t page: https://secc.com.vn/events/hawaexpo-2027-1584000401\nPost show rep
+ ort: https://secc.com.vn/events/hawaexpo-2027-1584000401/event-report\n\nS
+ ource: SECC event calendar\, last checked 2026-11-01
+URL:https://secc.com.vn/events/hawaexpo-2027-1584000401
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:secc-1583998223@jtmasia.com
+DTSTAMP:20261101T065930Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270320
+SUMMARY:HORTEX VIETNAM 2027
+LOCATION:SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Viet
+ nam | Exhibition Hall A
+DESCRIPTION:The 9th International Exhibition & Conference for Horticultural
+  and Floricultural Production and Processing Technology in Vietnam\n\nDate
+ s: 17-19 Mar 2027\nHours: 09:00-17:00\nHalls: Exhibition Hall A\nVenue: SE
+ CC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Vietnam\n\nEve
+ nt page: https://secc.com.vn/events/hortex-vietnam-2027-1583998223\nBrochu
+ re: https://secc.com.vn/events/hortex-vietnam-2027-1583998223/brochures\nP
+ ost show report: https://secc.com.vn/events/hortex-vietnam-2027-1583998223
+ /event-report\n\nSource: SECC event calendar\, last checked 2026-11-01
+URL:https://secc.com.vn/events/hortex-vietnam-2027-1583998223
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:secc-1583998715@jtmasia.com
+DTSTAMP:20261101T065930Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270425
+SUMMARY:GLOBAL SOURCING FAIR VIETNAM 2027
+LOCATION:SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Viet
+ nam | Exhibition Hall A\, Exhibition Hall B
+DESCRIPTION:Global Sourcing Fair Vietnam 2027\n\nDates: 22-24 Apr 2027\nHou
+ rs: 09:00-17:00\nHalls: Exhibition Hall A\, Exhibition Hall B\nVenue: SECC
+ \, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Vietnam\n\nEvent
+  page: https://secc.com.vn/events/global-sourcing-fair-vietnam-2027-158399
+ 8715\nBrochure: https://secc.com.vn/events/global-sourcing-fair-vietnam-20
+ 27-1583998715/brochures\nPost show report: https://secc.com.vn/events/glob
+ al-sourcing-fair-vietnam-2027-1583998715/event-report\n\nSource: SECC even
+ t calendar\, last checked 2026-11-01
+URL:https://secc.com.vn/events/global-sourcing-fair-vietnam-2027-1583998715
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:secc-1583997356@jtmasia.com
+DTSTAMP:20261101T065930Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270522
+SUMMARY:GENTEXH VIETNAM 2027
+LOCATION:SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Viet
+ nam | Exhibition Hall A1
+DESCRIPTION:The 3rd International Exhibition on Nonwoven & Hygiene Technolo
+ gy in Vietnam\n\nDates: 19-21 May 2027\nHours: 09:00-17:00\nHalls: Exhibit
+ ion Hall A1\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh
+  City\, Vietnam\n\nEvent page: https://secc.com.vn/events/gentexh-vietnam-
+ 2027-1583997356\nBrochure: https://secc.com.vn/events/gentexh-vietnam-2027
+ -1583997356/brochures\nPost show report: https://secc.com.vn/events/gentex
+ h-vietnam-2027-1583997356/event-report\n\nSource: SECC event calendar\, la
+ st checked 2026-11-01
+URL:https://secc.com.vn/events/gentexh-vietnam-2027-1583997356
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:secc-1583997010@jtmasia.com
+DTSTAMP:20261101T065930Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270626
+SUMMARY:CHEMEXPO VIETNAM 2027
+LOCATION:SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Viet
+ nam | Exhibition Hall B1
+DESCRIPTION:The 2nd International Exhibition for the Chemical Industry in V
+ ietnam\n\nDates: 23-25 Jun 2027\nHours: 09:00-17:00\nHalls: Exhibition Hal
+ l B1\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\,
+  Vietnam\n\nEvent page: https://secc.com.vn/events/chemexpo-vietnam-2027-1
+ 583997010\nBrochure: https://secc.com.vn/events/chemexpo-vietnam-2027-1583
+ 997010/brochures\nPost show report: https://secc.com.vn/events/chemexpo-vi
+ etnam-2027-1583997010/event-report\n\nSource: SECC event calendar\, last c
+ hecked 2026-11-01
+URL:https://secc.com.vn/events/chemexpo-vietnam-2027-1583997010
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:secc-1583997204@jtmasia.com
+DTSTAMP:20261101T065930Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270626
+SUMMARY:COATINGS EXPO VIETNAM 2027
+LOCATION:SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Viet
+ nam | Exhibition Hall B
+DESCRIPTION:The 12th International Exhibition on Coatings\, Color\, Spechem
+  and Printing Ink Industry in Vietnam\n\nDates: 23-25 Jun 2027\nHours: 09:
+ 00-17:00\nHalls: Exhibition Hall B\nVenue: SECC\, 799 Nguyen Van Linh\, Ta
+ n My Ward\, Ho Chi Minh City\, Vietnam\n\nEvent page: https://secc.com.vn/
+ events/coatings-expo-vietnam-2027-1583997204\nBrochure: https://secc.com.v
+ n/events/coatings-expo-vietnam-2027-1583997204/brochures\nPost show report
+ : https://secc.com.vn/events/coatings-expo-vietnam-2027-1583997204/event-r
+ eport\n\nSource: SECC event calendar\, last checked 2026-11-01
+URL:https://secc.com.vn/events/coatings-expo-vietnam-2027-1583997204
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:secc-1583997452@jtmasia.com
+DTSTAMP:20261101T065930Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270626
+SUMMARY:GRINDTECH EXPO VIETNAM 2027
+LOCATION:SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Viet
+ nam | Exhibition Hall B2
+DESCRIPTION:The International Exhibition on Grinding Technology\, Machinery
+ \, Abrasives and Tools in Vietnam\n\nDates: 23-25 Jun 2027\nHours: 09:00-1
+ 7:00\nHalls: Exhibition Hall B2\nVenue: SECC\, 799 Nguyen Van Linh\, Tan M
+ y Ward\, Ho Chi Minh City\, Vietnam\n\nEvent page: https://secc.com.vn/eve
+ nts/grindtech-expo-vietnam-2027-1583997452\nBrochure: https://secc.com.vn/
+ events/grindtech-expo-vietnam-2027-1583997452/brochures\nPost show report:
+  https://secc.com.vn/events/grindtech-expo-vietnam-2027-1583997452/event-r
+ eport\n\nSource: SECC event calendar\, last checked 2026-11-01
+URL:https://secc.com.vn/events/grindtech-expo-vietnam-2027-1583997452
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:secc-1583997525@jtmasia.com
+DTSTAMP:20261101T065930Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270626
+SUMMARY:LIVESTOCK VIETNAM 2027
+LOCATION:SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Viet
+ nam | Exhibition Hall A2
+DESCRIPTION:The 4th International Exhibition for Livestock\, Feed\, Animal 
+ Health\, Dairy And Meat Processing Industry.\n\nDates: 23-25 Jun 2027\nHou
+ rs: 09:00-17:00\nHalls: Exhibition Hall A2\nVenue: SECC\, 799 Nguyen Van L
+ inh\, Tan My Ward\, Ho Chi Minh City\, Vietnam\n\nEvent page: https://secc
+ .com.vn/events/livestock-vietnam-2027-1583997525\nBrochure: https://secc.c
+ om.vn/events/livestock-vietnam-2027-1583997525/brochures\nPost show report
+ : https://secc.com.vn/events/livestock-vietnam-2027-1583997525/event-repor
+ t\n\nSource: SECC event calendar\, last checked 2026-11-01
+URL:https://secc.com.vn/events/livestock-vietnam-2027-1583997525
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:secc-1583997672@jtmasia.com
+DTSTAMP:20261101T065930Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270626
+SUMMARY:PETFAIR VIETNAM 2027
+LOCATION:SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Viet
+ nam | Exhibition Hall A1
+DESCRIPTION:Petfair Vietnam 2027 – Triển Lãm Quốc Tế Lần Thứ 4
+  Chuyên Ngành Công Nghệ\, Sản Phẩm\, Dịch Vụ Chăm Sóc Thú 
+ Cưng Tại Việt Nam\n\nDates: 23-25 Jun 2027\nHours: 09:00-17:00\nHalls
+ : Exhibition Hall A1\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho
+  Chi Minh City\, Vietnam\n\nEvent page: https://secc.com.vn/events/petfair
+ -vietnam-2027-1583997672\nBrochure: https://secc.com.vn/events/petfair-vie
+ tnam-2027-1583997672/brochures\nPost show report: https://secc.com.vn/even
+ ts/petfair-vietnam-2027-1583997672/event-report\n\nSource: SECC event cale
+ ndar\, last checked 2026-11-01
+URL:https://secc.com.vn/events/petfair-vietnam-2027-1583997672
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:secc-1583989211@jtmasia.com
+DTSTAMP:20261101T065930Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270702
+SUMMARY:EDUTECH VIETNAM 2027
+LOCATION:SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Viet
+ nam | Exhibition Hall A
+DESCRIPTION:VIETNAM INTERNATIONAL TECHNOLOGY & EDUCATIONAL EQUIPMENT EXHIBI
+ TION 2027\n\nDates: 29 Jun - 1 Jul 2027\nHours: 09:00-17:00\nHalls: Exhibi
+ tion Hall A\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh
+  City\, Vietnam\n\nEvent page: https://secc.com.vn/events/edutech-vietnam-
+ 2027-1583989211\nBrochure: https://secc.com.vn/events/edutech-vietnam-2027
+ -1583989211/brochures\n\nSource: SECC event calendar\, last checked 2026-1
+ 1-01
+URL:https://secc.com.vn/events/edutech-vietnam-2027-1583989211
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:secc-1583988240@jtmasia.com
+DTSTAMP:20261101T065930Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270702
+SUMMARY:VIETOFFICE 2027
+LOCATION:SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Viet
+ nam | Exhibition Hall A
+DESCRIPTION:The 4th International Exhibition for Smart Office Solutions\, O
+ ffice Equipment and Stationery\n\nDates: 29 Jun - 1 Jul 2027\nHours: 09:00
+ -17:00\nHalls: Exhibition Hall A\nVenue: SECC\, 799 Nguyen Van Linh\, Tan 
+ My Ward\, Ho Chi Minh City\, Vietnam\n\nEvent page: https://secc.com.vn/ev
+ ents/vietoffice-2027-1583988240\nBrochure: https://secc.com.vn/events/viet
+ office-2027-1583988240/brochures\nPost show report: https://secc.com.vn/ev
+ ents/vietoffice-2027-1583988240/event-report\n\nSource: SECC event calenda
+ r\, last checked 2026-11-01
+URL:https://secc.com.vn/events/vietoffice-2027-1583988240
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:secc-1584000331@jtmasia.com
+DTSTAMP:20261101T065930Z
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270717
+SUMMARY:SHOES & LEATHER 2027
+LOCATION:SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\, Viet
+ nam | Exhibition Hall A\, Exhibition Hall B
+DESCRIPTION:The International Shoes and Leather Exhibition 2027\n\nDates: 1
+ 4-16 Jul 2027\nHours: 09:30-17:00\nHalls: Exhibition Hall A\, Exhibition H
+ all B\nVenue: SECC\, 799 Nguyen Van Linh\, Tan My Ward\, Ho Chi Minh City\
+ , Vietnam\n\nEvent page: https://secc.com.vn/events/shoes-leather-2027-158
+ 4000331\n\nSource: SECC event calendar\, last checked 2026-11-01
+URL:https://secc.com.vn/events/shoes-leather-2027-1584000331
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
